@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Week 2: Express.js Fundamentals Assignment**
 
 **Objective:**
@@ -91,3 +92,17 @@
 - Detailed documentation with clear instructions.
 - Successful testing of all endpoints.
 
+=======
+{
+  "name": "express-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+>>>>>>> c0589b4 (my commit)
